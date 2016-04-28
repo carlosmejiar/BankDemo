@@ -24,6 +24,7 @@ net from http://radyakin.org/transfer/usespss/beta
 net install usespss
 help usespss
 
+*just testing
 
 global path = "C:\Users\wb480551\Box Sync\School Census\2013-14 Census\Further Cleaning Work Oct 2015 -AFP\Raw Data"
 cd `$path'
