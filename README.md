@@ -12,6 +12,6 @@ This is *awesome*.
 3. Oh wait, I should use Poisson regression instead of OLS.
 4. And I should cluster my standard errors.
 5. reg y x, robust.
+<<<<<<< HEAD
 6. I changed the readme file again.
-This is a local change
-I am making a new change online.
+This is a local and online Change
